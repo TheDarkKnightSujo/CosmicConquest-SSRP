@@ -1,6 +1,6 @@
-# 🎮 Dynamic Tic Tac Toe (React.js)
+# 🚀 Cosmic Conquest 🪐
 
-A flexible and dynamic Tic Tac Toe game built with React.js. This version supports custom board sizes, allowing players to enjoy Tic Tac Toe beyond the traditional 3x3 grid!
+A space-themed Tic-Tac-Toe game built with React.js. It is flexible and dynamic Tic Tac Toe game built with React.js. This version supports custom board sizes, allowing players to enjoy Tic Tac Toe beyond the traditional 3x3 grid!
 
 ## 🚀 Live Demo
 
