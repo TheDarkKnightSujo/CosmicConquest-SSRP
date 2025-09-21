@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://TheDarkKnightSujo.github.io/DynamicTictactoe-Reactjs",
+  "homepage": "https://TheDarkKnightSujo.github.io/CosmicConquest-SSRP",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
